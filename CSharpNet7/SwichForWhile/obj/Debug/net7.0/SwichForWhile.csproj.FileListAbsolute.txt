@@ -1,0 +1,15 @@
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\bin\Debug\net7.0\SwichForWhile.exe
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\bin\Debug\net7.0\SwichForWhile.deps.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\bin\Debug\net7.0\SwichForWhile.runtimeconfig.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\bin\Debug\net7.0\SwichForWhile.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\bin\Debug\net7.0\SwichForWhile.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.csproj.AssemblyReference.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.AssemblyInfoInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.AssemblyInfo.cs
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.csproj.CoreCompileInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\refint\SwichForWhile.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\SwichForWhile.genruntimeconfig.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SwichForWhile\obj\Debug\net7.0\ref\SwichForWhile.dll
