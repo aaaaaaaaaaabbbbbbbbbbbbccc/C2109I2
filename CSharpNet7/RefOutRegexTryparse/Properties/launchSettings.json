@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RefOutRegexTryparse": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

@@ -18,8 +18,8 @@ var par = new RegexTryparse();
 
 //target-type c# new
 RegexTryparse p = new();
-//p.CheckNumberByRegex();
-p.TryCatchBug();
+p.CheckNumberByRegex();
+//p.TryCatchBug();
 
 
 //ref thì cần tạo giá trị bên ngoài để làm biến cục bộ có sẵn không cần tạo thêm biến 
