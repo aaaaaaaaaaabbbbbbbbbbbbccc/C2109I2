@@ -17,6 +17,7 @@ namespace OopPolymorphismOverloading
         //public BasicMath()
         //{
 
+
         //}
         //public BasicMath(int numberOne, int numberTwo)
         //{
@@ -27,7 +28,6 @@ namespace OopPolymorphismOverloading
         //{
         //    NumberOne = numberOne;
         //}
-
 
 
         //optional argument => đối số lựa chọn truyền cho tham số

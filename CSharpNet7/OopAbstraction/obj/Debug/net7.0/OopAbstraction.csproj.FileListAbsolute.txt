@@ -1,0 +1,15 @@
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\bin\Debug\net7.0\OopAbstraction.exe
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\bin\Debug\net7.0\OopAbstraction.deps.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\bin\Debug\net7.0\OopAbstraction.runtimeconfig.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\bin\Debug\net7.0\OopAbstraction.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\bin\Debug\net7.0\OopAbstraction.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.csproj.AssemblyReference.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.AssemblyInfoInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.AssemblyInfo.cs
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\refint\OopAbstraction.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\OopAbstraction.genruntimeconfig.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopAbstraction\obj\Debug\net7.0\ref\OopAbstraction.dll
