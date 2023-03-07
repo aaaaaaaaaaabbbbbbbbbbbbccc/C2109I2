@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BTVNCSharpModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="couId" />
+    </Key>
+    <Property Name="couId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="couName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="couSemester" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Exam">
+    <Key>
+      <PropertyRef Name="examId" />
+    </Key>
+    <Property Name="examId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="examName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="examMark" Type="float" Nullable="false" />
+    <Property Name="examDate" Type="date" Nullable="false" />
+    <Property Name="stuId" Type="int" Nullable="false" />
+    <Property Name="couId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="stuId" />
+    </Key>
+    <Property Name="stuId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="stuPass" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="stuName" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="stuAddress" Type="nvarchar" MaxLength="300" Nullable="false" />
+    <Property Name="stuPhone" Type="int" Nullable="false" />
+    <Property Name="stuEmail" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="deptId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BTVNCSharpModelStoreContainer">
+    <EntitySet Name="Course" EntityType="Self.Course" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Exam" EntityType="Self.Exam" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

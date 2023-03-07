@@ -1,0 +1,28 @@
+﻿
+<link href="~/css/Style.css" rel="stylesheet" />
+
+<script src= "~/js/mylib.js"></script>
+<h3 class =" format">Razor View</h3>
+@{
+	var id= 123;
+	var username = "abc";
+	var price = 12;
+	var status = true;
+	var quantity = 4;
+
+}
+
+id: @id
+<br />
+username: @username
+<br />
+total @(price * quantity) 
+<br />
+status: @(status ? "show":"hide")
+<br />
+<img src="~/images/banhbao.jpg" onclick="clickMe()" />
+
+@{
+	var photo = "banhbao.jpg";
+
+}

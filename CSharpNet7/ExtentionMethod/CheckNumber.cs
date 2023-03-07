@@ -15,12 +15,12 @@ namespace ExtentionMethod
                 Console.WriteLine($"{i} đúng là lớn hơn {value}");
             }
         }
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
     }
 }

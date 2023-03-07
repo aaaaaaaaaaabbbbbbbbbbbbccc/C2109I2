@@ -11,13 +11,13 @@ namespace OopEncapsulationPropety
         //field ( phải là private )
         private string fullname;
         //property => mobile
-        public string Fullname 
+        public string Fullname
         {
             get => fullname; set => fullname = value;
         }
-       
+
         //auto property => dập cái fied thành thuộc tính 
-        public string Address { get;set; }
+        public string Address { get; set; }
 
 
 

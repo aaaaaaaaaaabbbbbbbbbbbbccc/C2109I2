@@ -8,8 +8,8 @@
 
 BasicMath basic1 = new();
 basic1.Sum();//=>0
-basic1.Sum(5,6);//=>11
-basic1.Sum(num1 :5);
+basic1.Sum(5, 6);//=>11
+basic1.Sum(num1: 5);
 
 //named argumemt
 basic1.Sum(num2: 5);

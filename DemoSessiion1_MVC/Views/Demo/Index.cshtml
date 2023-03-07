@@ -1,0 +1,66 @@
+﻿<link href="~/css/style.css" rel="stylesheet" />
+
+<script src="~/js/mylib.js"></script>
+
+<h3 class="format">Razor View</h3>
+@{
+    var id = 123;
+    var username = "abc";
+    var price = 4.5;
+    var quantity = 2;
+    var status = true;
+}
+id: @id
+<br />
+username: @username
+<br />
+price: @price
+<br />
+quantity: @quantity
+<br />
+status: @status
+<br />
+total: @(price * quantity)
+<br />
+status: @(status ? "show" : "hide")
+<br />
+<br />
+<img src="~/images/thumb1.gif" width="120" height="100" class="photo" onclick="clickMe()" />
+@{
+    var photo = "thumb2.gif";
+    var width = 200;
+    var height = 300;
+}
+<img src="~/images/@photo" width="@width" height="@height" />
+<br />
+<br />
+@if (status)
+{
+    <span style="color: blue">Show</span>
+}
+else
+{
+    <span style="color: red">Hide</span>
+}
+
+<br />
+<br />
+@{
+    var avg = 6.7;
+}
+@if (avg >= 8)
+{
+    <span style="color: blue">A</span>
+}
+else if (avg >= 7)
+{
+    <span style="color: yellow">B</span>
+}
+else if (avg >= 6)
+{
+    <span style="color: orange">C</span>
+}
+else
+{
+    <span style="color: red">D</span>
+}

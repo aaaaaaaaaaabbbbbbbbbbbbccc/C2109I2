@@ -2,7 +2,7 @@
 {
     internal class RefOut
     {
-        public static void ChangeVar(out int a,out int b)
+        public static void ChangeVar(out int a, out int b)
         {
             a = 20;
             b = 30;

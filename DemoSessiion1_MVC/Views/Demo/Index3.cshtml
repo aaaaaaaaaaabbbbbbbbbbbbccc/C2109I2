@@ -1,0 +1,81 @@
+﻿<h3>Index 3</h3>
+id: @ViewBag.id
+<br />
+username: @ViewBag.username
+<br />
+price: @ViewBag.price
+<br />
+quantity: @ViewBag.quantity
+<br />
+total: @(ViewBag.price * ViewBag.quantity)
+<br />
+<img src="~/images/@ViewBag.photo" width="120" height="100" />
+<br />
+<h3>Product Info</h3>
+<table border="1">
+    <tr>
+        <td>Id</td>
+        <td>@ViewBag.product.Id</td>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>@ViewBag.product.Name</td>
+    </tr>
+    <tr>
+        <td>Created</td>
+        <td>@ViewBag.product.Created.ToString("dd/MM/yyyy")</td>
+    </tr>
+    <tr>
+        <td>Photo</td>
+        <td>
+            <img src="~/images/@ViewBag.product.Photo" width="120" height="100" />
+        </td>
+    </tr>
+    <tr>
+        <td>Price</td>
+        <td>@ViewBag.product.Price</td>
+    </tr>
+    <tr>
+        <td>Quantity</td>
+        <td>@ViewBag.product.Quantity</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>@(ViewBag.product.Price * ViewBag.product.Quantity)</td>
+    </tr>
+</table>
+<br />
+<br />
+<ol>
+    @foreach (var name in ViewBag.names)
+    {
+        <li>@name</li>
+    }
+</ol>
+
+<h3>Product List</h3>
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Photo</th>
+        <th>Created</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Sub Total</th>
+    </tr>
+    @foreach (var p in ViewBag.products)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>
+                <img src="~/images/@p.Photo" width="120" height="100" />
+            </td>
+            <td>@p.Created.ToString("dd/MM/yyyy")</td>
+            <td>@p.Price</td>
+            <td>@p.Quantity</td>
+            <td>@(p.Price * p.Quantity)</td>
+        </tr>
+    }
+</table>

@@ -4,7 +4,7 @@ Console.OutputEncoding = Encoding.Unicode;
 
 int number = 10;
 string str = "thái";
-double money= 10.5;
+double money = 10.5;
 bool check = true;
 //trong C# thường có 2 dạng kiểu chính 
 //1 value type(dạng số) không chứa được null, 2 là reference type (chuỗi, đối tượng) cho phép null;
@@ -22,7 +22,7 @@ string s = null;
 Console.WriteLine(name != null ? true : false);
 //is not null (!=)
 //is (==)
-Console.WriteLine(name is not null ? true:false);
+Console.WriteLine(name is not null ? true : false);
 
 // ?=> null conditional operator
 // ? dùng sau đít của tên biến hay đối tượng 

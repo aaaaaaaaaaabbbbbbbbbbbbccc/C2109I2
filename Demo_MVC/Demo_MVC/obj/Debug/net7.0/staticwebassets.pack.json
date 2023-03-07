@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\thaivt\\source\\repos\\C2109I2\\Demo_MVC\\Demo_MVC\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\thaivt\\source\\repos\\C2109I2\\Demo_MVC\\Demo_MVC\\wwwroot\\images\\banhbao.jpg",
+      "PackagePath": "staticwebassets\\images\\banhbao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thaivt\\source\\repos\\C2109I2\\Demo_MVC\\Demo_MVC\\wwwroot\\images\\pngtree-plastic-bottle-icon-isolated-png-image_1998211.jpg",
+      "PackagePath": "staticwebassets\\images\\pngtree-plastic-bottle-icon-isolated-png-image_1998211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thaivt\\source\\repos\\C2109I2\\Demo_MVC\\Demo_MVC\\wwwroot\\images\\z3958978149150_991c95a08e78098d807e6de216b0f300.jpg",
+      "PackagePath": "staticwebassets\\images\\z3958978149150_991c95a08e78098d807e6de216b0f300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thaivt\\source\\repos\\C2109I2\\Demo_MVC\\Demo_MVC\\wwwroot\\images\\z3959151602932_cd3e4e8cc240cdc347101519e83728e0.jpg",
+      "PackagePath": "staticwebassets\\images\\z3959151602932_cd3e4e8cc240cdc347101519e83728e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thaivt\\source\\repos\\C2109I2\\Demo_MVC\\Demo_MVC\\wwwroot\\js\\mylib.js",
+      "PackagePath": "staticwebassets\\js\\mylib.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Demo_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Demo_MVC.props",
+      "PackagePath": "build\\Demo_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Demo_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Demo_MVC.props",
+      "PackagePath": "buildTransitive\\Demo_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

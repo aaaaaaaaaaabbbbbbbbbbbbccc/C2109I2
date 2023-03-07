@@ -31,11 +31,11 @@ namespace OopPolymorphismOverloading
 
 
         //optional argument => đối số lựa chọn truyền cho tham số
-        public void Sum(int num1 = 0, int num2 =default)
+        public void Sum(int num1 = 0, int num2 = default)
         {
-            NumberTwo= num2;
-            NumberOne= num1;
-            Console.WriteLine(NumberOne+NumberTwo);
+            NumberTwo = num2;
+            NumberOne = num1;
+            Console.WriteLine(NumberOne + NumberTwo);
         }
 
 

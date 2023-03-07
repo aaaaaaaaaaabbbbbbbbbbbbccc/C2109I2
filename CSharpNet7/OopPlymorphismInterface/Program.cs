@@ -20,7 +20,7 @@ many.WriteTextFile();
 //=====================
 
 IBinaryFile bf = new SomeFile();
-bf.ShowInfo(); 
+bf.ShowInfo();
 bf.ReadFile();
 bf.WriteBinaryFile();
 

@@ -9,11 +9,11 @@ namespace OopPlymorphismInterface
     internal class ManyFile : IBinaryFile, ITextFile
     {
         //bỏ đi bổ từ truy cập sau đó thêm interface
-         void IBinaryFile.ReadFile()
+        void IBinaryFile.ReadFile()
         {
             Console.WriteLine();
         }
-         void ITextFile.WriteBinaryFile()
+        void ITextFile.WriteBinaryFile()
         {
             Console.WriteLine();
         }

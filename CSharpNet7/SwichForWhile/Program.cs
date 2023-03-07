@@ -45,7 +45,7 @@ switch (dau)
 
 // vòng lặp Foreach
 
-string[]arrs = { "khải", "tín", "thắng", "huy", "nghị" };
+string[] arrs = { "khải", "tín", "thắng", "huy", "nghị" };
 foreach (var t in arrs)
 {
     Console.WriteLine(t);
@@ -58,4 +58,4 @@ while (e.MoveNext())
 {
     string s = e.Current.ToString();
     Console.WriteLine(s);
-}    
+}

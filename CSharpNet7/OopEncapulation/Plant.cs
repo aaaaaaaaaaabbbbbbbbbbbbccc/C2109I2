@@ -9,7 +9,7 @@ namespace OopEncapulation
     public class Plant
     {
         //access modifier => các bổ từ truy cập 
-        private void Private() =>Console.WriteLine("private");
+        private void Private() => Console.WriteLine("private");
         protected void Protected() => Console.WriteLine("Protected");
         internal void Internal() => Console.WriteLine("Internal");
         private protected void PrivateProtected() => Console.WriteLine(" private protected");

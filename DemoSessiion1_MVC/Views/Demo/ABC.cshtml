@@ -1,0 +1,120 @@
+﻿@using DemoSessiion1_MVC.Models;
+
+<h3>Index 2</h3>
+@{
+    var names = new List<string>
+    {
+        "Name 1", "Name 2", "Name 3", "Name 4", "Name 5"
+    };
+}
+<ul>
+    @foreach (var name in names)
+    {
+        <li>@name</li>
+    }
+</ul>
+
+@{
+    var product = new Product
+            {
+                Id = 1,
+                Name = "Name 1",
+                Photo = "thumb1.gif",
+                Price = 4.5,
+                Quantity = 2,
+                Created = DateTime.Now
+            };
+}
+<h3>Product Info</h3>
+<table border="1">
+    <tr>
+        <td>Id</td>
+        <td>@product.Id</td>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>@product.Name</td>
+    </tr>
+    <tr>
+        <td>Created</td>
+        <td>@product.Created.ToString("dd/MM/yyyy")</td>
+    </tr>
+    <tr>
+        <td>Photo</td>
+        <td>
+            <img src="~/images/@product.Photo" width="120" height="100" />
+        </td>
+    </tr>
+    <tr>
+        <td>Price</td>
+        <td>@product.Price</td>
+    </tr>
+    <tr>
+        <td>Quantity</td>
+        <td>@product.Quantity</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>@(product.Price * product.Quantity)</td>
+    </tr>
+</table>
+
+@{
+    var products = new List<Product>
+    {
+        new Product
+            {
+                Id = 1,
+                Name = "Name 1",
+                Photo = "thumb1.gif",
+                Price = 4.5,
+                Quantity = 2,
+                Created = DateTime.Now
+            },
+        new Product
+            {
+                Id = 2,
+                Name = "Name 2",
+                Photo = "thumb2.gif",
+                Price = 6.7,
+                Quantity = 3,
+                Created = DateTime.Now
+            },
+        new Product
+            {
+                Id = 3,
+                Name = "Name 3",
+                Photo = "thumb3.gif",
+                Price = 3.4,
+                Quantity = 7,
+                Created = DateTime.Now
+            }
+    };
+}
+
+<h3>Product List</h3>
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Photo</th>
+        <th>Created</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Sub Total</th>
+    </tr>
+    @foreach (var p in products)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>
+                <img src="~/images/@p.Photo" width="120" height="100" />
+            </td>
+            <td>@p.Created.ToString("dd/MM/yyyy")</td>
+            <td>@p.Price</td>
+            <td>@p.Quantity</td>
+            <td>@(p.Price * p.Quantity)</td>
+        </tr>
+    }
+</table>

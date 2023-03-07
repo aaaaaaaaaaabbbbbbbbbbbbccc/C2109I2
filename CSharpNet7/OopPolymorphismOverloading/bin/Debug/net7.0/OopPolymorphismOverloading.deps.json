@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "OopPolymorphismOverloading/1.0.0": {
+        "dependencies": {
+          "ListAndLinq": "1.0.0"
+        },
         "runtime": {
           "OopPolymorphismOverloading.dll": {}
+        }
+      },
+      "ListAndLinq/1.0.0": {
+        "runtime": {
+          "ListAndLinq.dll": {}
         }
       }
     }
   },
   "libraries": {
     "OopPolymorphismOverloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListAndLinq/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

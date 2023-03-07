@@ -45,7 +45,7 @@ namespace RefOutRegexTryparse
             }
             catch (Exception e)
             {
-                Console.WriteLine($"{e.GetType()} : {e.Message}");          
+                Console.WriteLine($"{e.GetType()} : {e.Message}");
             }
         }
 
@@ -60,7 +60,7 @@ namespace RefOutRegexTryparse
 
 
     }
-    
+
 }
 
 

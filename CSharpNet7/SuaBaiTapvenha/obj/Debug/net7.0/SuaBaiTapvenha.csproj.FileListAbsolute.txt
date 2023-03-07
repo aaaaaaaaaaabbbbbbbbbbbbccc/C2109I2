@@ -1,0 +1,15 @@
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.csproj.AssemblyReference.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.AssemblyInfoInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.AssemblyInfo.cs
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.csproj.CoreCompileInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\bin\Debug\net7.0\SuaBaiTapvenha.exe
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\bin\Debug\net7.0\SuaBaiTapvenha.deps.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\bin\Debug\net7.0\SuaBaiTapvenha.runtimeconfig.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\bin\Debug\net7.0\SuaBaiTapvenha.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\bin\Debug\net7.0\SuaBaiTapvenha.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\refint\SuaBaiTapvenha.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\SuaBaiTapvenha.genruntimeconfig.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\SuaBaiTapvenha\obj\Debug\net7.0\ref\SuaBaiTapvenha.dll

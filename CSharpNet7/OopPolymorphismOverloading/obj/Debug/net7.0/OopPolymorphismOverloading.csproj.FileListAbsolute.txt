@@ -13,3 +13,9 @@ C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\obj\D
 C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\obj\Debug\net7.0\OopPolymorphismOverloading.pdb
 C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\obj\Debug\net7.0\OopPolymorphismOverloading.genruntimeconfig.cache
 C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\obj\Debug\net7.0\ref\OopPolymorphismOverloading.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\bin\Debug\net7.0\ListAndLinq.deps.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\bin\Debug\net7.0\ListAndLinq.runtimeconfig.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\bin\Debug\net7.0\ListAndLinq.exe
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\bin\Debug\net7.0\ListAndLinq.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\bin\Debug\net7.0\ListAndLinq.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\OopPolymorphismOverloading\obj\Debug\net7.0\OopPolymorphismOverloading.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.csproj.AssemblyReference.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.AssemblyInfoInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.AssemblyInfo.cs
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.csproj.CoreCompileInputs.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\bin\Debug\net7.0\BTVN1'.exe
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\bin\Debug\net7.0\BTVN1'.deps.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\bin\Debug\net7.0\BTVN1'.runtimeconfig.json
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\bin\Debug\net7.0\BTVN1'.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\bin\Debug\net7.0\BTVN1'.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\refint\BTVN1'.dll
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.pdb
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\BTVN1'.genruntimeconfig.cache
+C:\Users\thaivt\source\repos\C2109I2\CSharpNet7\BTVN1'\obj\Debug\net7.0\ref\BTVN1'.dll

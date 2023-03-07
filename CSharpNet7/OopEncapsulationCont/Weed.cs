@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace OopEncapsulationCont
 {
-    internal class Weed : Plant 
+    internal class Weed : Plant
     {
         static void Main(string[] args)
         {
@@ -15,7 +15,7 @@ namespace OopEncapsulationCont
             weed.Protected();
             weed.ProtectedInternal();
             weed.Public();
-          //weed.PrivateProtected(); trong cùng đồ án mới được dùng 
+            //weed.PrivateProtected(); trong cùng đồ án mới được dùng 
 
         }
     }

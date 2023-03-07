@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace OopPlymorphismInterface
 {
-    internal class SomeFile : IBinaryFile , ITextFile
+    internal class SomeFile : IBinaryFile, ITextFile
     {
         public void ReadFile()
         {
 
         }
-        public void WriteBinaryFile() 
-        { 
-                    
+        public void WriteBinaryFile()
+        {
+
         }
-        public void WriteTextFile () 
+        public void WriteTextFile()
         {
         }
     }

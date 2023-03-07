@@ -3,10 +3,10 @@
 //Animal animal = new Animal();
 
 //pure oop = oop nguyên thủy, oop thuần 
-Dog dog1= new Dog();
+Dog dog1 = new Dog();
 
 //C# new, thường dùng nhanh 
-var dog2= new Dog();
+var dog2 = new Dog();
 
 
 //C# ver 10 

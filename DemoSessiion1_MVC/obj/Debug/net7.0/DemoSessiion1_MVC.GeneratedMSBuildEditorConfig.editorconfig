@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoSessiion1_MVC
+build_property.RootNamespace = DemoSessiion1_MVC
+build_property.ProjectDir = C:\Users\thaivt\source\repos\C2109I2\DemoSessiion1_MVC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thaivt\source\repos\C2109I2\DemoSessiion1_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo2/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzJcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo2/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzJcSW5kZXgzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo2/Index4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzJcSW5kZXg0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo2/Index5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzJcSW5kZXg1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo/ABC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xBQkMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/Views/Demo/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thaivt/source/repos/C2109I2/DemoSessiion1_MVC/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

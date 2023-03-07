@@ -6,7 +6,7 @@ Console.InputEncoding = Encoding.Unicode;
 Console.OutputEncoding = Encoding.Unicode;
 List<Student> list = new()
 {
-    new Student(){Id = 1, Name = "vu minh thai", Gender = true, Dob = new DateTime(2003 , 09, 13)}
+    new Student(){Id = 1, Name = "vu minh thai", Gender = false, Dob = new DateTime(2003 , 06, 24)}
 
 };
 
@@ -24,7 +24,7 @@ List<Student> list = new()
 
 
 //duyệt qua list 
-//list.ForEach(Console.WriteLine);
+list.ForEach(Console.WriteLine);
 
 //linq = language integrated query 
 //linq to sql => thay thế cú pháp sql trong c#
@@ -49,8 +49,8 @@ List<Student> list = new()
 
 //var t = from stu in list 
 //        where stu.Id >2
-//        select stu;
-//foreach(var i in t)
+//       select stu;
+//foreach (var i in t)
 //{
 //    Console.WriteLine(i);
 //}
@@ -62,5 +62,5 @@ foreach (var i in t)
 {
     Console.WriteLine(i);
 }
-
+Console.ReadKey();
 //kết hợp foreach của list 

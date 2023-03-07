@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ListAndLinq/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ListAndLinq.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ListAndLinq.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ListAndLinq/1.0.0": {
+      "type": "project",
+      "path": "../ListAndLinq/ListAndLinq.csproj",
+      "msbuildProject": "../ListAndLinq/ListAndLinq.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ListAndLinq >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\thaivt\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\thaivt\\source\\repos\\C2109I2\\CSharpNet7\\ListAndLinq\\ListAndLinq.csproj": {
+              "projectPath": "C:\\Users\\thaivt\\source\\repos\\C2109I2\\CSharpNet7\\ListAndLinq\\ListAndLinq.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
